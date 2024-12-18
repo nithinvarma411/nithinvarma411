@@ -32,6 +32,7 @@ I’m excited to keep growing, stay curious, and contribute to meaningful projec
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
 ## Technologies I’m Currently Learning
@@ -40,6 +41,7 @@ I’m excited to keep growing, stay curious, and contribute to meaningful projec
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Mongoose-%2300B1A7?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </div>
 
 ## Thanks for visiting my profile! 🙏
