@@ -40,6 +40,12 @@ I’m excited to keep growing, stay curious, and contribute to meaningful projec
   <img src="https://img.shields.io/badge/Mongoose-%2300B1A7?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </div>
 
+## Technologies I am Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</div>
+
 ## Thanks for visiting my profile! 🙏
 
 Feel free to connect with me or check out my repositories. I’m always open to collaboration and learning opportunities. Let's build something amazing together! 🚀
