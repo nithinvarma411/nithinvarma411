@@ -1,14 +1,18 @@
 ## Hi there 👋, I'm Nithin Varma
 
-## **<u>ABOUT ME</u>**
+## 🔎 About Me
 
-I am currently pursuing my B.Tech in Computer Science at Lovely Professional University (LPU), in collaboration with Kalvium, an innovative platform that offers a project-based learning approach to education. This unique curriculum provides me with the opportunity to work on real-world projects, fostering practical skills alongside theoretical knowledge.
+I am currently pursuing my **B.Tech in Computer Science** at *Lovely Professional University (LPU)*, in collaboration with **Kalvium**, an innovative platform that offers a project-based learning approach to education. This unique curriculum allows me to work on real-world projects, strengthening both my theoretical knowledge and practical skills.
 
-As a student, I am building a strong foundation in software development, data structures, and algorithms (DSA), while continuously improving my problem-solving and critical thinking abilities. Currently, I am learning the **MERN stack** (MongoDB, Express.js, React, Node.js) and deepening my understanding of DSA, which is sharpening my coding and development skills. Through my journey at Kalvium, I’m learning how to tackle complex challenges, innovate solutions, and collaborate effectively with peers and mentors.
+I have built a solid foundation in **software development**, **data structures**, and **algorithms (DSA)**, while honing my **problem-solving** and **critical thinking** abilities. I have completed learning the **MERN stack** *(MongoDB, Express.js, React, Node.js)* and developed a full-fledged project named **Dhanapathrika**, a smart invoice and stock management system.  
+👉 [**Project Link Here**](https://dhanapathrika.vercel.app/) <!-- Replace # with your actual project URL -->
 
-I’m driven by the potential of technology to create positive impact and solve real-world problems. I thrive on tackling new challenges and continuously learning to improve my skills.
+Currently, I am expanding my skill set by learning **Golang**, focusing on backend development and exploring its potential to build high-performance systems.
+
+I’m driven by the potential of technology to create a positive impact and solve real-world problems. I thrive on tackling new challenges and continuously learning to improve my skills.
 
 I’m excited to keep growing, stay curious, and contribute to meaningful projects that push the boundaries of what's possible in tech!
+
 
 ## Connect with Me
 
@@ -31,7 +35,6 @@ I’m excited to keep growing, stay curious, and contribute to meaningful projec
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
